@@ -82,7 +82,3 @@ The dataset contains medical predictor variables and a target variable indicatin
 - Address class imbalance if present
 - Add cross-validation for robust evaluation
 - Deploy the model as a simple API or dashboard
-
----
-
-## 📁 Repository Structure
